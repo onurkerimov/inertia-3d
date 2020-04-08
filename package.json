@@ -1,0 +1,33 @@
+{
+  "name": "inertia-3d",
+  "version": "1.0.1",
+  "description": "Drag DOM elements with simulated inertia, by 3D CSS transformations",
+  "main": "src/lib.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "zbam": "1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurkerimov/3D.git"
+  },
+  "keywords": [
+    "3d",
+    "drag",
+    "move",
+    "inertia"
+  ],
+  "author": "Onur Kerimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onurkerimov/3D/issues"
+  },
+  "homepage": "https://github.com/onurkerimov/3D#readme"
+}
