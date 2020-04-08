@@ -1,6 +1,6 @@
 {
   "name": "inertia-3d",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Drag DOM elements with simulated inertia, by 3D CSS transformations",
   "main": "src/lib.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onurkerimov/3D.git"
+    "url": "git+https://github.com/onurkerimov/inertia-3d.git"
   },
   "keywords": [
     "3d",
@@ -27,7 +27,7 @@
   "author": "Onur Kerimov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/onurkerimov/3D/issues"
+    "url": "https://github.com/onurkerimov/inertia-3d/issues"
   },
-  "homepage": "https://github.com/onurkerimov/3D#readme"
+  "homepage": "https://github.com/onurkerimov/inertia-3d#readme"
 }
